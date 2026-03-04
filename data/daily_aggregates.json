@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-03T15:22:43.503604+00:00",
+  "generated_at": "2026-03-04T15:18:18.789948+00:00",
   "years": {
     "2024": {
       "Ride": {
@@ -1508,6 +1508,15 @@
           "distance": 2909.219970703125,
           "elevation_gain": 35.0,
           "moving_time": 1444.6910095214844
+        },
+        "2026-03-03": {
+          "activity_ids": [
+            "22051160449"
+          ],
+          "count": 1,
+          "distance": 3268.010009765625,
+          "elevation_gain": 48.0,
+          "moving_time": 1521.9209868907928
         }
       },
       "WeightTraining": {
@@ -1627,6 +1636,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3443.0009765625
+        },
+        "2026-03-04": {
+          "activity_ids": [
+            "22055163722"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 881.239990234375
         }
       },
       "resort_skiing": {
