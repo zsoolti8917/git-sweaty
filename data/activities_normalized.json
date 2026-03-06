@@ -3040,5 +3040,31 @@
     "start_date_local": "2026-03-04T07:22:16",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-03-05",
+    "distance": 10110.5,
+    "elevation_gain": 93.0,
+    "id": "22073792357",
+    "moving_time": 7380.409973144531,
+    "name": "Prague Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-03-05T17:53:11",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-06",
+    "distance": 2968.969970703125,
+    "elevation_gain": 27.0,
+    "id": "22080341124",
+    "moving_time": 2117.0,
+    "name": "Prague Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-03-06T12:51:05",
+    "type": "Walk",
+    "year": 2026
   }
 ]

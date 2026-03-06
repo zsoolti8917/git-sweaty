@@ -2105,6 +2105,24 @@
       "type": "WeightTraining",
       "url": "https://connect.garmin.com/modern/activity/22055163722",
       "year": 2026
+    },
+    {
+      "date": "2026-03-05",
+      "hour": 17,
+      "name": "Prague Walking",
+      "subtype": "walking",
+      "type": "Walk",
+      "url": "https://connect.garmin.com/modern/activity/22073792357",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-06",
+      "hour": 12,
+      "name": "Prague Walking",
+      "subtype": "walking",
+      "type": "Walk",
+      "url": "https://connect.garmin.com/modern/activity/22080341124",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3626,6 +3644,26 @@
           "moving_time": 1521.9209868907928
         }
       },
+      "Walk": {
+        "2026-03-05": {
+          "activity_ids": [
+            "22073792357"
+          ],
+          "count": 1,
+          "distance": 10110.5,
+          "elevation_gain": 93.0,
+          "moving_time": 7380.409973144531
+        },
+        "2026-03-06": {
+          "activity_ids": [
+            "22080341124"
+          ],
+          "count": 1,
+          "distance": 2968.969970703125,
+          "elevation_gain": 27.0,
+          "moving_time": 2117.0
+        }
+      },
       "WeightTraining": {
         "2026-01-17": {
           "activity_ids": [
@@ -3786,7 +3824,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/32e45ab7-d846-4eb8-bb56-e145321f66b7",
-  "generated_at": "2026-03-05T15:23:06.355263+00:00",
+  "generated_at": "2026-03-06T15:17:03.188049+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/32e45ab7-d846-4eb8-bb56-e145321f66b7",
   "repo": "zsoolti8917/git-sweaty",
