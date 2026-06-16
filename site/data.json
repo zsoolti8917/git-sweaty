@@ -2123,6 +2123,15 @@
       "type": "Walk",
       "url": "https://connect.garmin.com/modern/activity/22080341124",
       "year": 2026
+    },
+    {
+      "date": "2026-06-15",
+      "hour": 20,
+      "name": "Strength",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/23261337255",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3790,6 +3799,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 881.239990234375
+        },
+        "2026-06-15": {
+          "activity_ids": [
+            "23261337255"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3728.2490234375
         }
       },
       "resort_skiing": {
@@ -3824,7 +3842,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/32e45ab7-d846-4eb8-bb56-e145321f66b7",
-  "generated_at": "2026-06-15T16:42:38.710759+00:00",
+  "generated_at": "2026-06-16T16:36:29.874269+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/32e45ab7-d846-4eb8-bb56-e145321f66b7",
   "repo": "zsoolti8917/git-sweaty",
