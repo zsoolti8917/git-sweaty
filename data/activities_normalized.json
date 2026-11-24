@@ -3092,5 +3092,18 @@
     "start_date_local": "2026-11-23T19:33:21",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-11-24",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "25180488960",
+    "moving_time": 2787.595947265625,
+    "name": "PPL 5 Day \u00b7 Push A",
+    "raw_activity_type": "strength_training",
+    "raw_type": "strength_training",
+    "start_date_local": "2026-11-24T07:04:10",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]

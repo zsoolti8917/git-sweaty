@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T02:03:00.577411+00:00",
+  "generated_at": "2026-11-24T23:47:40.313589+00:00",
   "years": {
     "2024": {
       "Ride": {
@@ -1683,6 +1683,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2159.889892578125
+        },
+        "2026-11-24": {
+          "activity_ids": [
+            "25180488960"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2787.595947265625
         }
       },
       "resort_skiing": {
